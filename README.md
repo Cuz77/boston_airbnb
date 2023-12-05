@@ -4,7 +4,7 @@
 
 ## Motivation
 
-This project has been created as a part of the Udacity Nanodegree Data Scientist program. An [article](https://blurp) has been posted on Medium to share the findings.
+This project has been created as a part of the Udacity Nanodegree Data Scientist program. An [article](https://medium.com/@belibels/the-art-of-travel-planning-a-data-driven-approach-e240140fe3b2) has been posted on Medium to share the findings.
 
 
 
