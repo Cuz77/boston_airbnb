@@ -14,6 +14,7 @@ Libraries used for this project:
 
 - pandas
 - matplotlib
+- numpy
 - sklearn for modeling, testing, and assesing
 - wordcloud
 - collections
@@ -58,11 +59,12 @@ The dataset consists of three csv files provided by Airbnb on kaggle ([Boston Ai
 
 Categorical variables has been transformed accordingly:
 - one-hot encoding has been processed for nominal features
-- a feature containing list of available amenities has been transformed into a list of unique values before one-hot encoding
-- missing values have been replaced with 0s denoting a lack of option
+- a feature containing list of available amenities has been transformed into a list of unique values before performing one-hot encoding
+- missing values have been replaced with 0s in a separate column denoting a lack of given option since lack of information can impact user behaviour
 
 Numerical variables has been transformed accordingly:
-- missing values have been replaced with means
+- missing values have been replaced with means to not loose data
+- 98% of listings do not show square feet so that feature has been dropped
     
     
 
