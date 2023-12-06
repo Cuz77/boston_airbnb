@@ -49,9 +49,9 @@ The directory structure for this project looks like follows:
 ## Dataset
 
 The dataset consists of three csv files provided by Airbnb on kaggle ([Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston/discussion)).
-    1. calendar - a list of over 1.3 million bookin days from between 2016-09-06 and 2017-09-05
-    2. listings - a list of 3585 airbnb premises
-    3. ratings - a list of 68275 ratings with opinions
+1. calendar - a list of over 1.3 million bookin days from between 2016-09-06 and 2017-09-05
+2. listings - a list of 3585 airbnb premises
+3. ratings - a list of 68275 ratings with opinions
     
 
 
